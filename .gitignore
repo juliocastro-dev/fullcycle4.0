@@ -3,6 +3,9 @@
 /node_modules
 /build
 
+# Requests
+*.http
+
 # Logs
 logs
 *.log
